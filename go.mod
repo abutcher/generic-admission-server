@@ -1,4 +1,4 @@
-module github.com/openshift/generic-admission-server
+module github.com/abutcher/generic-admission-server
 
 go 1.13
 
