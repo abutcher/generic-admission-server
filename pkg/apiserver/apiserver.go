@@ -15,7 +15,7 @@ import (
 	genericapiserver "k8s.io/apiserver/pkg/server"
 	restclient "k8s.io/client-go/rest"
 
-	"github.com/openshift/generic-admission-server/pkg/registry/admissionreview"
+	"github.com/abutcher/generic-admission-server/pkg/registry/admissionreview"
 )
 
 var (
